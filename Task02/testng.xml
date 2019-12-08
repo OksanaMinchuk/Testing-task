@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Default Suite" verbose="1" >
+
+    <test name="Test">
+        <classes>
+            <class name="page.TotalTest"/>
+        </classes>
+    </test>
+
+</suite>
